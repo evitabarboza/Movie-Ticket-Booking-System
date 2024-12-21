@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your project:
-
-```markdown
 # Movie Ticket Booking System
 
 Welcome to the **Movie Ticket Booking System**! This is a simple movie ticket booking application built using **Node.js**. The application allows users to view available movies, book tickets, and see seating availability.
