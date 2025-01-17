@@ -76,5 +76,3 @@ This project is open-source and available under the MIT License.
 GitHub: [https://github.com/evitabarboza](https://github.com/evitabarboza)
 
 Feel free to contribute and open issues if you encounter any problems.
-
-```
